@@ -1,0 +1,10 @@
+name: env
+
+dependencies:
+- python=3.6
+- notebook
+- opencv
+
+channels:
+- default
+- conda-forge
